@@ -1,0 +1,16 @@
+{
+  "challenge": {
+    "id": "string",
+    "title": "string",
+    "short_description": "string",
+    "what_to_do": "string",
+    "what_to_notice": "string",
+    "category": "micro_discovery|social|creative|city_emotion|family|home_online|movement|city_paid|custom",
+    "format_type": "solo|friend|family|mixed",
+    "budget_tier": "free|up_to_300|up_to_700|premium",
+    "city_fit": "universal|large|small",
+    "duration_min": "int",
+    "duration_max": "int",
+    "status": "draft|published|archived"
+  }
+}
